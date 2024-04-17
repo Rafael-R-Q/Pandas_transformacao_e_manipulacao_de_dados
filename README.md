@@ -1,7 +1,7 @@
 # Pandas: Transformação e manipulação de dados
 
 <p align="center">
-  <img width="350" height="100" src="logo/Hermex logo laranja e azul.png">
+  <img width="350" height="100" src="Logo/Pandas_logo.svg.png">
 </p>
 
 <p align="center">
