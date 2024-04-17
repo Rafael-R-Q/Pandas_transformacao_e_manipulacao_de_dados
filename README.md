@@ -1,8 +1,8 @@
 # Pandas: Transformação e manipulação de dados
 
-<p align="right">,<p align="left">
-  <img width="350" height="120" src="Logo/Pandas_logo.svg.png">,<img width="350" height="100" src="Logo/Python_logo_and_wordmark.svg.png">
-</p>,</p>
+<p align="right">,    <p align="left">
+  <img width="350" height="120" src="Logo/Pandas_logo.svg.png">,    <img width="350" height="100" src="Logo/Python_logo_and_wordmark.svg.png">
+</p>,    </p>
 
 
   
